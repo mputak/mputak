@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 I'm Marko Putak, a Master's student in Artificial Intelligence, Vision and Sound.   
 
 This repository contains my projects and explorations in the exciting world of AI!   
@@ -23,7 +24,7 @@ Feel free to reach out if you have any questions or want to collaborate!
 **Connect with me:**
 
 * [[LinkedIn URL](https://www.linkedin.com/in/markoputak/)]
-* [Email address(mputak98@gmail.com)]
+* Email address: mputak98@gmail.com
 
 
 <!--
