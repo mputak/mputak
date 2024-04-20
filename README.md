@@ -23,7 +23,7 @@ Feel free to reach out if you have any questions or want to collaborate!
 
 **Connect with me:**
 
-* [[LinkedIn URL](https://www.linkedin.com/in/markoputak/)]
+* [LinkedIn](https://www.linkedin.com/in/markoputak/)
 * Email address: mputak98@gmail.com
 
 
